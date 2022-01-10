@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# CSAPP组队学习笔记
+# 第32期CSAPP组队学习笔记
 
 {% include list.liquid %}
 
