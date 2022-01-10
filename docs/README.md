@@ -12,4 +12,6 @@
 
 # 学习资料
 
+* [31期Leetcode](https://algo.itcharge.cn/)
 * [32期CSAPP](https://github.com/datawhalechina/team-learning-program/blob/master/ComputerSystems/README.md)
+* [33期Leetcode](https://algo.itcharge.cn/)
